@@ -14,4 +14,5 @@ Push  to github!
 
 dev branch change!
 Creating a new branch is quick & simple.
+test dev merge no-ff(no Fast Forward)!
 
