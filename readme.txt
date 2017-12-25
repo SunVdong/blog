@@ -4,3 +4,5 @@ Git is free software under the GPL.
 First change!
 
 Second change!
+
+Third change!
